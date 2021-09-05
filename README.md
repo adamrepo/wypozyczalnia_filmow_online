@@ -16,4 +16,13 @@ Do bazy dodane są także wygenerowane losowo rekordy:
 - 1000 ocen filmów
 - 1000 wypożyczeń
 
-Skrypt sql zawiera także procedury i funkcje.
+Skrypt sql zawiera także procedury oraz triggery.
+
+Strona internetowa została napisana w HTML, PHP i CSS. 
+
+![](images/index.png)
+![](images/home.png)
+![](images/profil.png)
+![](images/search.png)
+![](images/wyporzyczenia.png)
+![](images/oceny.png)
